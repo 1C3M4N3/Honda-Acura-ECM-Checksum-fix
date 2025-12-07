@@ -1,7 +1,5 @@
 # Honda-Acura-ECM-Checksum-fix
 
-# Universal Honda/Keihin Checksum Fixer
-
 A lightweight Python tool designed to verify and fix checksums for Honda/Acura ECU ROMs (Keihin SH70xx/SH72xx). It features automatic algorithm detection and a fallback "Drift Compensation" mode for unknown or non-standard checksums.
 
 ## Features
